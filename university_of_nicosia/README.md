@@ -6,6 +6,8 @@ CERTIFICATE VERIFICATION (into the Bitcoin blockchain)
 2. upload the [PDF](https://github.com/naszam/certifications/tree/master/university_of_nicosia/nicosia_certificate.pdf)
 3. you should get the following Output:
 
+# Certificate nicosia_certificate.pdf is valid! 
+
 **Transaction Id** 	5ed51f4c3dd86ec245505198eb6e3fbe2a7f2ccdab1d4dc3084051479cd4b814
 
 **Issuer** 	University of Nicosia
